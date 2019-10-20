@@ -8,7 +8,7 @@
 
 В этом репозитории вы найдете следующие файлы:
 
-1) udpipe.py, russian-syntagrus-ud-2.4-190531.udpipe - файлы необходимые для работы парсера (помимо библиотеки ufal.udpipe)
+1) udpipe.py и [russian-syntagrus-ud-2.4-190531.udpipe](https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-2998/russian-syntagrus-ud-2.4-190531.udpipe?sequence=74&isAllowed=y) - файлы необходимые для работы парсера (помимо библиотеки ufal.udpipe)
 2) udpipe_test.py - скрипт для тестирования
 3) input.txt - файл с предложениями для разметки, он же testset
 4) conll18_ud_eval.py - скрипт для подсчета метрик LAS (F-мера), MLAS и BLEX
