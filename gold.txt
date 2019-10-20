@@ -1,0 +1,1296 @@
+# newdoc id = n01001
+# sent_id = n01001011
+# text = «Если передача цифровых технологий сегодня в США происходит впервые, то о мирной передаче власти такого не скажешь», – написала Кори Шульман, специальный помощник президента Обамы в своем блоге в понедельник.
+# english_text = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+1	«	«	PUNCT	``	_	19	punct	_	SpaceAfter=No
+2	Если	если	SCONJ	IN	_	9	mark	_	_
+3	передача	передача	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+4	цифровых	цифровой	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	технологий	технология	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+6	сегодня	сегодня	ADV	RB	Degree=Pos	9	advmod	_	_
+7	в	в	ADP	IN	_	8	case	_	_
+8	США	США	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	_
+9	происходит	происходить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	_
+10	впервые	впервые	ADV	RB	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	9	punct	_	_
+12	то	то	SCONJ	IN	_	19	mark	_	_
+13	о	о	ADP	IN	_	15	case	_	_
+14	мирной	мирный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	передаче	передача	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+16	власти	власть	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	такого	такое	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	19	nsubj	_	_
+18	не	не	PART	NEG	Polarity=Neg	19	advmod	_	_
+19	скажешь	сказать	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+20	»	»	PUNCT	'	_	19	punct	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	–	–	PUNCT	-	_	23	punct	_	OrigForm=--
+23	написала	написать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	_
+24	Кори	Кори	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+25	Шульман	Шульман	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	24	flat:name	_	SpaceAfter=No
+26	,	,	PUNCT	,	_	28	punct	_	_
+27	специальный	специальный	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	помощник	помощник	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	appos	_	_
+29	президента	президент	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	Обамы	Обама	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	flat:name	_	_
+31	в	в	ADP	IN	_	33	case	_	_
+32	своем	свой	DET	PRP$	Case=Loc|Gender=Masc|Number=Sing	33	det	_	_
+33	блоге	блог	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	_
+34	в	в	ADP	IN	_	35	case	_	_
+35	понедельник	понедельник	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+36	.	.	PUNCT	.	_	19	punct	_	_
+
+# sent_id = n01001013
+# text = Для тех, кто следит за передачей всех материалов, появившихся в социальных сетях о Конгрессе, это будет происходить несколько по-другому.
+# english_text = For those who follow social media transitions on Capitol Hill, this will be a little different.
+1	Для	для	ADP	IN	_	2	case	_	_
+2	тех	тот	DET	DT	Case=Gen|Number=Plur	20	det	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	кто	кто	PRON	WP	Case=Nom	5	nsubj	_	_
+5	следит	следить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+6	за	за	ADP	IN	_	7	case	_	_
+7	передачей	передача	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+8	всех	весь	DET	DT	Case=Gen|Number=Plur	9	det	_	_
+9	материалов	материал	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	появившихся	появиться	VERB	VBNL	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	9	acl	_	_
+12	в	в	ADP	IN	_	14	case	_	_
+13	социальных	социальный	ADJ	JJ	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	сетях	сеть	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	_
+15	о	о	ADP	IN	_	16	case	_	_
+16	Конгрессе	Конгресс	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	5	punct	_	_
+18	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+19	будет	быть	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	aux	_	_
+20	происходить	происходить	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+21	несколько	несколько	ADV	RB	Degree=Pos	22	advmod	_	_
+22	по-другому	по-другому	ADV	RB	Degree=Pos	20	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	20	punct	_	_
+
+# newdoc id = n01002
+# sent_id = n01002017
+# text = Но в отступлении от риторики прошлого о сокращении иммиграции кандидат Республиканской партии заявил, что в качестве президента он позволил бы въезд «огромного количества» легальных мигрантов на основе «системы заслуг».
+# english_text = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
+1	Но	но	CCONJ	CC	_	13	cc	_	_
+2	в	в	ADP	IN	_	3	case	_	_
+3	отступлении	отступление	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+4	от	от	ADP	IN	_	5	case	_	_
+5	риторики	риторика	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	прошлого	прошлое	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	о	о	ADP	IN	_	8	case	_	_
+8	сокращении	сокращение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	_
+9	иммиграции	иммиграция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	кандидат	кандидат	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+11	Республиканской	Республиканский	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Proper=True
+12	партии	партия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	заявил	заявить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	20	punct	_	_
+15	что	что	SCONJ	IN	_	20	mark	_	_
+16	в	в	ADP	IN	_	18	case	_	_
+17	качестве	качество	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	fixed	_	_
+18	президента	президент	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	_
+19	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
+20	позволил	позволить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+21	бы	бы	AUX	RP	Mood=Cnd	20	aux	_	_
+22	въезд	въезд	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+23	«	«	PUNCT	``	_	25	punct	_	SpaceAfter=No
+24	огромного	огромный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	количества	количество	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+26	»	»	PUNCT	``	_	25	punct	_	_
+27	легальных	легальный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	мигрантов	мигрант	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+29	на	на	ADP	IN	_	30	case	_	_
+30	основе	основа	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+31	«	«	PUNCT	``	_	32	punct	_	SpaceAfter=No
+32	системы	система	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+33	заслуг	заслуга	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	SpaceAfter=No
+34	»	»	PUNCT	'	_	32	punct	_	SpaceAfter=No
+35	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = n01002032
+# text = «Мне вовсе не хочется оказывать на вас какое-либо давление, но судьба республики зависит от вас», – сказал он толпе, собравшейся на спортивной площадке в Университете Северной Каролины.
+# english_text = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+1	«	«	PUNCT	``	_	5	punct	_	SpaceAfter=No
+2	Мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1	5	iobj	_	_
+3	вовсе	вовсе	ADV	RB	Degree=Pos	5	advmod	_	_
+4	не	не	PART	NEG	Polarity=Neg	5	advmod	_	_
+5	хочется	хотеться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	оказывать	оказывать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	на	на	ADP	IN	_	8	case	_	_
+8	вас	вы	PRON	PRP	Case=Acc|Number=Plur|Person=2	6	obl	_	_
+9	какое-либо	какой-либо	DET	WDT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
+10	давление	давление	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	15	punct	_	_
+12	но	но	CCONJ	CC	_	15	cc	_	_
+13	судьба	судьба	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+14	республики	республика	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	зависит	зависеть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+16	от	от	ADP	IN	_	17	case	_	_
+17	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2	15	obl	_	SpaceAfter=No
+18	»	»	PUNCT	'	_	5	punct	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	21	punct	_	_
+20	–	–	PUNCT	-	_	21	punct	_	OrigForm=--
+21	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+22	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nsubj	_	_
+23	толпе	толпа	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	SpaceAfter=No
+24	,	,	PUNCT	,	_	25	punct	_	_
+25	собравшейся	собраться	VERB	VBNL	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	23	acl	_	_
+26	на	на	ADP	IN	_	28	case	_	_
+27	спортивной	спортивный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	площадке	площадка	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	obl	_	_
+29	в	в	ADP	IN	_	30	case	_	_
+30	Университете	Университет	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	_
+31	Северной	Северный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	Proper=True
+32	Каролины	Каролина	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01002042
+# text = Новые расходы финансируются благодаря крупным суммам на банковском счету Клинтон.
+# english_text = The new spending is fueled by Clinton’s large bank account.
+1	Новые	новый	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	расходы	расход	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	финансируются	финансировать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	благодаря	благодаря	ADP	IN	_	6	case	_	_
+5	крупным	крупный	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur	6	amod	_	_
+6	суммам	сумма	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	obl	_	_
+7	на	на	ADP	IN	_	9	case	_	_
+8	банковском	банковский	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	счету	счет	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+10	Клинтон	Клинтон	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01002058
+# text = То, что она говорит и что она делает, на самом деле невероятно.
+# english_text = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+1	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	что	что	SCONJ	IN	_	5	obj	_	_
+4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+5	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	что	что	SCONJ	IN	_	9	obj	_	_
+8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+9	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	5	punct	_	_
+11	на	на	ADP	IN	_	13	case	_	_
+12	самом	самый	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	деле	дело	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+14	невероятно	невероятный	ADJ	JJH	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	_
+
+# newdoc id = n01003
+# sent_id = n01003007
+# text = Максимально допустимая сумма на одного человека — 5000 долларов США.
+# english_text = $5,000 per person, the maximum allowed.
+1	Максимально	максимально	ADV	RB	Degree=Pos	2	advmod	_	_
+2	допустимая	допустимый	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	сумма	сумма	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+4	на	на	ADP	IN	_	6	case	_	_
+5	одного	один	NUM	CD	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nummod	_	_
+6	человека	человек	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
+7	—	—	PUNCT	-	_	9	punct	_	OrigForm=--
+8	5000	5000	NUM	CD	_	9	nummod	_	_
+9	долларов	доллар	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+10	США	США	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = n01003010
+# text = В начале октября переходная команда использовала то же место для встреч с технологическими лоббистами, с приглашением представителей из Убер, Американской Ассоциации Кинокомпаний, Ассоциации производителей бытовой техники и других групп.
+# english_text = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
+1	В	в	ADP	IN	_	2	case	_	_
+2	начале	начало	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	октября	октябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	переходная	переходный	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	команда	команда	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	использовала	использовать	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	то	то	DET	DT	Case=Acc|Gender=Neut|Number=Sing	9	det	_	_
+8	же	же	PART	UH	_	7	advmod	_	_
+9	место	место	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+10	для	для	ADP	IN	_	11	case	_	_
+11	встреч	встреча	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	_
+12	с	с	ADP	IN	_	14	case	_	_
+13	технологическими	технологический	ADJ	JJ	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	_
+14	лоббистами	лоббист	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	17	punct	_	_
+16	с	с	ADP	IN	_	17	case	_	_
+17	приглашением	приглашение	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	conj	_	_
+18	представителей	представитель	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	из	из	ADP	IN	_	20	case	_	_
+20	Убер	Убер	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	Американской	Американский	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	Proper=True
+23	Ассоциации	Ассоциация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	_	_
+24	Кинокомпаний	Кинокомпания	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	26	punct	_	_
+26	Ассоциации	Ассоциация	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	_	_
+27	производителей	производитель	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+28	бытовой	бытовой	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	Proper=True
+29	техники	техника	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+30	и	и	CCONJ	CC	_	32	cc	_	_
+31	других	другой	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	_
+32	групп	группа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	conj	_	SpaceAfter=No
+33	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01003012
+# text = Сбор был первоначально намечен в частном столичном клубе Вашингтона «Метрополитен Клуб» на Х-стрит, в нескольких кварталах от отеля.
+# english_text = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+1	Сбор	сбор	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+2	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+3	первоначально	первоначально	ADV	RB	Degree=Pos	4	advmod	_	_
+4	намечен	наметить	VERB	VBNH	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	в	в	ADP	IN	_	8	case	_	_
+6	частном	частный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	столичном	столичный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	клубе	клуб	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+9	Вашингтона	Вашингтон	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	«	«	PUNCT	``	_	11	punct	_	SpaceAfter=No
+11	Метрополитен	Метрополитен	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+12	Клуб	Клуб	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	flat	_	SpaceAfter=No
+13	»	»	PUNCT	'	_	11	punct	_	_
+14	на	на	ADP	IN	_	15	case	_	_
+15	Х-стрит	Х-стрит	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	Proper=True|SpaceAfter=No
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	в	в	ADP	IN	_	19	case	_	_
+18	нескольких	несколько	NUM	RB	Case=Loc	19	nummod:gov	_	_
+19	кварталах	квартал	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
+20	от	от	ADP	IN	_	21	case	_	_
+21	отеля	отель	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01003013
+# text = Возможно, дресс-код был слишком пуританским.
+# english_text = Maybe the dress code was too stuffy.
+1	Возможно	возможно	ADV	PARENTH	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	дресс-код	дресс-код	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	слишком	слишком	ADV	RB	Degree=Pos	6	advmod	_	_
+6	пуританским	пуританский	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = n01004
+# sent_id = n01004009
+# text = Вместо того чтобы изучать научный метод абстрактно, студенты постигают его суть, применяя его на практике.
+# english_text = Rather than teaching the scientific method as a separate unit, for example, students learn science content by applying it.
+1	Вместо	вместо	ADP	IN	_	2	case	_	_
+2	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+3	чтобы	чтобы	SCONJ	IN	_	4	mark	_	_
+4	изучать	изучать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	2	advcl	_	_
+5	научный	научный	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	метод	метод	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+7	абстрактно	абстрактно	ADV	RB	Degree=Pos	4	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	4	punct	_	_
+9	студенты	студент	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	постигают	постигать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	его	он	DET	PRP$	_	12	det	_	_
+12	суть	суть	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	_	_
+14	применяя	применять	VERB	VBG	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	_
+15	его	он	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obj	_	_
+16	на	на	ADP	IN	_	17	case	_	_
+17	практике	практика	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = n01004017
+# text = Их результаты по 4-м классам совпадают со средним по стране уровнем, а по 8-м классам результаты лучше, чем в среднем по стране.
+# english_text = They are at the national average in grade 4 and better than national average in grade 8.
+1	Их	они	DET	PRP$	_	2	det	_	_
+2	результаты	результат	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+3	по	по	ADP	IN	_	5	case	_	_
+4	4-м	четвертый	ADJ	ORD	Case=Dat|Degree=Pos|Number=Plur	5	amod	_	_
+5	классам	класс	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
+6	совпадают	совпадать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	со	со	ADP	IN	_	11	case	_	_
+8	средним	средний	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+9	по	по	ADP	IN	_	10	case	_	_
+10	стране	страна	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+11	уровнем	уровень	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	18	punct	_	_
+13	а	а	CCONJ	CC	_	18	cc	_	_
+14	по	по	ADP	IN	_	16	case	_	_
+15	8-м	восьмой	ADJ	ORD	Case=Dat|Degree=Pos|Number=Plur	16	amod	_	_
+16	классам	класс	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	17	nmod	_	_
+17	результаты	результат	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	_
+18	лучше	хороший	ADJ	JJR	Degree=Cmp	6	conj	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	22	punct	_	_
+20	чем	чем	SCONJ	IN	_	22	case	_	_
+21	в	в	ADP	IN	_	22	case	_	_
+22	среднем	среднее	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+23	по	по	ADP	IN	_	24	case	_	_
+24	стране	страна	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = n01005
+# sent_id = n01005023
+# text = Для сравнения, строительство подземной станции метро НоМа (NoMa), которая открылась в 2004 году, обошлось в 103,7 миллиона долларов США.
+# english_text = By comparison, it cost $103.7 million to build the NoMa infill Metro station, which opened in 2004.
+1	Для	для	ADP	IN	_	2	case	_	_
+2	сравнения	сравнение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	строительство	строительство	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+5	подземной	подземный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	станции	станция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	метро	метро	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	НоМа	НоМа	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+9	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
+10	NoMa	NoMa	PROPN	NNP	Foreign=Yes	8	appos	_	SpaceAfter=No
+11	)	)	PUNCT	)	_	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	которая	который	PRON	WDT	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	открылась	открыться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+15	в	в	ADP	IN	_	17	case	_	_
+16	2004	2004	ADJ	ORD	_	17	amod	_	_
+17	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	,	_	14	punct	_	_
+19	обошлось	обойтись	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+20	в	в	ADP	IN	_	23	case	_	_
+21	103,7	103,7	NUM	CD	_	22	nummod:gov	_	_
+22	миллиона	миллион	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nummod	_	_
+23	долларов	доллар	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	obl	_	_
+24	США	США	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	19	punct	_	_
+
+# sent_id = n01005024
+# text = «Здесь высокая конкуренция, и мы думаем, что транзит может помочь», - сказал Джо Штернлиб, президент инновационного делового района Georgetown BID.
+# english_text = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
+1	«	«	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Здесь	здесь	ADV	RB	Degree=Pos	0	root	_	_
+3	высокая	высокий	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	конкуренция	конкуренция	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	и	и	CCONJ	CC	_	8	cc	_	_
+7	мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1	8	nsubj	_	_
+8	думаем	думать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	что	что	SCONJ	IN	_	12	mark	_	_
+11	транзит	транзит	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	может	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+13	помочь	помочь	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	SpaceAfter=No
+14	»	»	PUNCT	'	_	2	punct	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	17	punct	_	_
+16	-	-	PUNCT	-	_	17	punct	_	_
+17	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+18	Джо	Джо	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+19	Штернлиб	Штернлиб	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	21	punct	_	_
+21	президент	президент	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	appos	_	_
+22	инновационного	инновационный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	Proper=True
+23	делового	деловой	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	Proper=True
+24	района	район	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+25	Georgetown	Georgetown	PROPN	NNP	Foreign=Yes	24	flat	_	_
+26	BID	BID	PROPN	NNP	Abbr=Yes|Foreign=Yes	25	flat:foreign	_	SpaceAfter=No
+27	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01005031
+# text = По данным технико-экономического обоснования, пассажиры смогут переправиться на другой берег реки Потомак в гондоле приблизительно за 4 минуты.
+# english_text = The feasibility study estimates that it would take passengers about four minutes to cross the Potomac River on the gondola.
+1	По	по	ADP	IN	_	2	case	_	_
+2	данным	данные	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	7	parataxis	_	_
+3	технико-экономического	технико-экономический	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	обоснования	обоснование	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	пассажиры	пассажир	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	смогут	смочь	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+8	переправиться	переправиться	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	_
+9	на	на	ADP	IN	_	11	case	_	_
+10	другой	другой	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	берег	берег	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+12	реки	река	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	Потомак	Потомак	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	flat	_	_
+14	в	в	ADP	IN	_	15	case	_	_
+15	гондоле	гондола	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+16	приблизительно	приблизительно	ADV	RB	Degree=Pos	19	advmod	_	_
+17	за	за	ADP	IN	_	19	case	_	_
+18	4	4	NUM	CD	_	19	nummod:gov	_	_
+19	минуты	минута	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	7	punct	_	_
+
+# newdoc id = n01006
+# sent_id = n01006011
+# text = Свидетель рассказал в полиции, что потерпевший напал на подозреваемого в апреле.
+# english_text = A witness told police that the victim had attacked the suspect in April.
+1	Свидетель	свидетель	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	рассказал	рассказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	IN	_	4	case	_	_
+4	полиции	полиция	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	что	что	SCONJ	IN	_	8	mark	_	_
+7	потерпевший	потерпевший	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	напал	напасть	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+9	на	на	ADP	IN	_	10	case	_	_
+10	подозреваемого	подозреваемый	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+11	в	в	ADP	IN	_	12	case	_	_
+12	апреле	апрель	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = Нужно провести параллель между играми и нашей повседневной жизнью.
+# english_text = There are parallels to draw here between games and our everyday lives.
+1	Нужно	нужный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	провести	провести	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	параллель	параллель	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	между	между	ADP	IN	_	5	case	_	_
+5	играми	игра	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	obl	_	_
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	нашей	наш	DET	PRP$	Case=Ins|Gender=Fem|Number=Sing	9	det	_	_
+8	повседневной	повседневный	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	жизнью	жизнь	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
+
+# newdoc id = n01008
+# sent_id = n01008017
+# text = Многие годы эта доля неуклонно растёт; по данным Бюро переписи населения, она оценивалась всего в 11% от общего числа голосов до выборов 1996 года, и в этом году она может снова подскочить.
+# english_text = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau -- and seems likely to jump again this year.
+1	Многие	многий	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	amod	_	_
+2	годы	год	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
+3	эта	этот	DET	DT	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	доля	доля	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	неуклонно	неуклонно	ADV	RB	Degree=Pos	6	advmod	_	_
+6	растёт	расти	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	;	;	PUNCT	:	_	6	punct	_	_
+8	по	по	ADP	IN	_	9	case	_	_
+9	данным	данные	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	15	parataxis	_	_
+10	Бюро	Бюро	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	переписи	перепись	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	населения	население	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	9	punct	_	_
+14	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	nsubj:pass	_	_
+15	оценивалась	оценивать	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	_
+16	всего	всего	ADV	RB	Degree=Pos	18	advmod	_	_
+17	в	в	ADP	IN	_	19	case	_	_
+18	11	11	NUM	CD	_	19	nummod	_	SpaceAfter=No
+19	%	%	SYM	SYM	_	15	obl	_	_
+20	от	от	ADP	IN	_	22	case	_	_
+21	общего	общий	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	числа	число	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+23	голосов	голос	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+24	до	до	ADP	IN	_	25	case	_	_
+25	выборов	выборы	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	obl	_	_
+26	1996	1996	ADJ	ORD	_	27	amod	_	_
+27	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	,	_	34	punct	_	_
+29	и	и	CCONJ	CC	_	34	cc	_	_
+30	в	в	ADP	IN	_	32	case	_	_
+31	этом	этот	DET	DT	Case=Loc|Gender=Masc|Number=Sing	32	det	_	_
+32	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	34	obl	_	_
+33	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	34	nsubj	_	_
+34	может	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+35	снова	снова	ADV	RB	Degree=Pos	36	advmod	_	_
+36	подскочить	подскочить	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	34	xcomp	_	SpaceAfter=No
+37	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = n01009
+# sent_id = n01009027
+# text = Сегодня Канзир может быть одинокой свиньей, но он не всегда в одиночестве.
+# english_text = Today, Khanzir may be a lonely pig, but he isn’t always alone.
+1	Сегодня	сегодня	ADV	RB	Degree=Pos	3	advmod	_	_
+2	Канзир	Канзир	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	может	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	быть	быть	AUX	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	6	cop	_	_
+5	одинокой	одинокий	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	свиньей	свинья	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	3	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	13	punct	_	_
+8	но	но	CCONJ	CC	_	13	cc	_	_
+9	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+10	не	не	PART	NEG	Polarity=Neg	11	advmod	_	_
+11	всегда	всегда	ADV	RB	Degree=Pos	13	advmod	_	_
+12	в	в	ADP	IN	_	13	case	_	_
+13	одиночестве	одиночество	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01009054
+# text = «Мы просили другие страны оказать нам помощь в заполнении зоопарка разными видами животных, в том числе свиньями», — сказал Сакиб.
+# english_text = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
+1	«	«	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	Мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	просили	просить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	другие	другой	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	_
+5	страны	страна	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+6	оказать	оказать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+7	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1	6	iobj	_	_
+8	помощь	помощь	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	в	в	ADP	IN	_	10	case	_	_
+10	заполнении	заполнение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	_
+11	зоопарка	зоопарк	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	разными	разный	ADJ	JJ	Case=Ins|Degree=Pos|Number=Plur	13	amod	_	_
+13	видами	вид	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	nmod	_	_
+14	животных	животное	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	19	punct	_	_
+16	в	в	ADP	IN	_	18	case	_	_
+17	том	том	DET	DT	Case=Loc|Gender=Neut|Number=Sing	18	det	_	_
+18	числе	числе	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	_
+19	свиньями	свинья	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
+20	»	»	PUNCT	'	_	3	punct	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	—	—	PUNCT	-	_	23	punct	_	OrigForm=--
+23	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+24	Сакиб	Сакиб	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = n01010
+# sent_id = n01010042
+# text = «Был момент, — сказал господин Панвалкар, — когда он чувствовал, что они должны покинуть здание».
+# english_text = There was a time, Mr Panvalkar said, when he felt that they should leave the building.
+1	«	«	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	момент	момент	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	—	—	PUNCT	-	_	6	punct	_	OrigForm=--
+6	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+7	господин	господин	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	Панвалкар	Панвалкар	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	6	punct	_	_
+10	—	—	PUNCT	-	_	6	punct	_	OrigForm=--
+11	когда	когда	SCONJ	IN	_	13	mark	_	_
+12	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+13	чувствовал	чувствовать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	что	что	SCONJ	IN	_	17	mark	_	_
+16	они	они	PRON	PRP	Case=Nom|Number=Plur|Person=3	17	nsubj	_	_
+17	должны	должен	ADJ	JJH	Degree=Pos|Number=Plur|Variant=Short	13	ccomp	_	_
+18	покинуть	покинуть	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	здание	здание	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	SpaceAfter=No
+20	»	»	PUNCT	'	_	2	punct	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	2	punct	_	_
+
+# newdoc id = n01011
+# sent_id = n01011004
+# text = Ей также предъявлено обвинение в покушении на убийство ее двухлетней дочери.
+# english_text = She has also been charged with trying to kill her two-year-old daughter.
+1	Ей	она	PRON	PRP	Case=Dat|Gender=Fem|Number=Sing|Person=3	3	iobj	_	_
+2	также	также	ADV	RB	Degree=Pos	3	advmod	_	_
+3	предъявлено	предъявить	VERB	VBNH	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	обвинение	обвинение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+5	в	в	ADP	IN	_	6	case	_	_
+6	покушении	покушение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	на	на	ADP	IN	_	8	case	_	_
+8	убийство	убийство	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	_
+9	ее	ее	DET	PRP$	_	11	det	_	_
+10	двухлетней	двухлетний	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	дочери	дочь	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01011011
+# text = По сообщению полиции, она убила Андре Прайса III, прижав его лицо к надувному матрасу в гостиной перед попыткой сделать то же самое с ее дочерью Энджел.
+# english_text = She killed Andre Price III by pressing his face into an air mattress in her sitting room before trying to do the same to her daughter, Angel, police said.
+1	По	по	ADP	IN	_	2	case	_	_
+2	сообщению	сообщение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	parataxis	_	_
+3	полиции	полиция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	2	punct	_	_
+5	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+6	убила	убить	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Андре	Андре	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	Прайса	Прайс	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	III	III	ADJ	ORD	_	7	flat:name	_	Proper=True|SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	прижав	прижать	VERB	VBG	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	_
+12	его	его	DET	PRP$	_	13	det	_	_
+13	лицо	лицо	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+14	к	к	ADP	IN	_	16	case	_	_
+15	надувному	надувной	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	матрасу	матрас	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
+17	в	в	ADP	IN	_	18	case	_	_
+18	гостиной	гостиная	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+19	перед	перед	ADP	IN	_	20	case	_	_
+20	попыткой	попытка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	_
+21	сделать	сделать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+22	то	то	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+23	же	же	PART	UH	_	22	advmod	_	_
+24	самое	самый	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+25	с	с	ADP	IN	_	27	case	_	_
+26	ее	ее	DET	PRP$	_	27	det	_	_
+27	дочерью	дочь	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	21	obl	_	_
+28	Энджел	Энджел	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	27	appos	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = n01011017
+# text = Так или иначе, я попаду в тюрьму, надеюсь, это стоило сделать.
+# english_text = "I'm going to jail either way, hope it was worth it."
+1	Так	так	ADV	RB	Degree=Pos	6	advmod	_	_
+2	или	или	CCONJ	CC	_	3	cc	_	_
+3	иначе	иначе	ADV	RB	Degree=Pos	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	1	punct	_	_
+5	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	попаду	попасть	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	в	в	ADP	IN	_	8	case	_	_
+8	тюрьму	тюрьма	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	10	punct	_	_
+10	надеюсь	надеяться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	это	это	PRON	DT	Case=Acc|Gender=Neut|Number=Sing	13	nsubj	_	_
+13	стоило	стоить	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+14	сделать	сделать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = n01012
+# sent_id = n01012003
+# text = Первой начала плакать одна из езидских женщин, а затем один из ее друзей.
+# english_text = First one of the Yazidi women started crying, then one of her friends.
+1	Первой	первый	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	_
+2	начала	начать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	плакать	плакать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	одна	один	NUM	CD	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	из	из	ADP	IN	_	7	case	_	_
+6	езидских	езидский	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	женщин	женщина	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	_	_
+9	а	а	CCONJ	CC	_	11	cc	_	_
+10	затем	затем	ADV	RB	Degree=Pos	11	orphan	_	_
+11	один	один	NUM	CD	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	orig_deprel=nsubj
+12	из	из	ADP	IN	_	14	case	_	_
+13	ее	ее	DET	PRP$	_	14	det	_	_
+14	друзей	друг	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	_	_
+
+# newdoc id = n01013
+# sent_id = n01013005
+# text = Г-н Осборн поступил на работу в агентство спикеров США после того, как его уволили в июле.
+# english_text = Mr Osborne signed up with a US speakers agency after being sacked in July.
+1	Г-н	г-н	NOUN	NN	Abbr=Yes|Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Осборн	Осборн	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	поступил	поступить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	IN	_	5	case	_	_
+5	работу	работа	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+6	в	в	ADP	IN	_	7	case	_	_
+7	агентство	агентство	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+8	спикеров	спикер	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	США	США	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	после	после	ADP	IN	_	11	case	_	_
+11	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	как	как	SCONJ	IN	_	15	mark	_	_
+14	его	он	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	obj	_	_
+15	уволили	уволить	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	_	_
+16	в	в	ADP	IN	_	17	case	_	_
+17	июле	июль	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = n01014
+# sent_id = n01014003
+# text = Майкл Фэллон заявил, что назначение даты закладки первого корабля будет способствовать притоку новых инвестиций и сохранит сотни квалифицированных рабочих мест до 2035 года.
+# english_text = Michael Fallon said the date for cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035.
+1	Майкл	Майкл	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Фэллон	Фэллон	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	заявил	заявить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	12	punct	_	_
+5	что	что	SCONJ	IN	_	12	mark	_	_
+6	назначение	назначение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+7	даты	дата	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	закладки	закладка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	первого	первый	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	корабля	корабль	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	будет	быть	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	aux	_	_
+12	способствовать	способствовать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	ccomp	_	_
+13	притоку	приток	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
+14	новых	новый	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	инвестиций	инвестиция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	и	и	CCONJ	CC	_	17	cc	_	_
+17	сохранит	сохранить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+18	сотни	сотня	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	obj	_	_
+19	квалифицированных	квалифицированный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+20	рабочих	рабочий	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	мест	место	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+22	до	до	ADP	IN	_	24	case	_	_
+23	2035	2035	ADJ	ORD	_	24	amod	_	_
+24	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01014012
+# text = Обещание новых заказов Королевского флота для обеспечения судостроительной промышленности Клайда было сделано до шотландского референдума о независимости в 2014 году.
+# english_text = The promise of new Royal Navy orders to secure the Clyde shipbuilding industry was made before the Scottish independence referendum in 2014.
+1	Обещание	обещание	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+2	новых	новый	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	заказов	заказ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	Королевского	Королевский	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	Proper=True
+5	флота	флот	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	для	для	ADP	IN	_	7	case	_	_
+7	обеспечения	обеспечение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+8	судостроительной	судостроительный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	промышленности	промышленность	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	Клайда	Клайд	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+12	сделано	сделать	VERB	VBNH	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+13	до	до	ADP	IN	_	15	case	_	_
+14	шотландского	шотландский	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	референдума	референдум	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+16	о	о	ADP	IN	_	17	case	_	_
+17	независимости	независимость	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+18	в	в	ADP	IN	_	20	case	_	_
+19	2014	2014	ADJ	ORD	_	20	amod	_	_
+20	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	12	punct	_	_
+
+# newdoc id = n01015
+# sent_id = n01015033
+# text = Это наиболее очевидно, когда имя знаменитости изначально довольно редкое.
+# english_text = It's most obvious when a celebrity's name is initially quite rare.
+1	Это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	наиболее	наиболее	ADV	RBS	Degree=Sup	3	advmod	_	_
+3	очевидно	очевидный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	10	punct	_	_
+5	когда	когда	SCONJ	IN	_	10	mark	_	_
+6	имя	имя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	знаменитости	знаменитость	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	изначально	изначально	ADV	RB	Degree=Pos	10	advmod	_	_
+9	довольно	довольно	ADV	RB	Degree=Pos	10	advmod	_	_
+10	редкое	редкий	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01015036
+# text = И к 2007 году на пике своей популярности (и, возможно, популярности Найтли) это имя вошло в число 50 самых популярных имён, и втрое больше детей получили имя Кира (Keira, а не Kiera).
+# english_text = And by 2007, at the height of its popularity (and, perhaps, Knightley's) it was a top 50 name, with three times more babies named Keira than Kiera.
+1	И	и	CCONJ	CC	_	19	cc	_	_
+2	к	к	ADP	IN	_	4	case	_	_
+3	2007	2007	ADJ	ORD	_	4	amod	_	_
+4	году	год	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+5	на	на	ADP	IN	_	6	case	_	_
+6	пике	пик	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+7	своей	свой	DET	PRP$	Case=Gen|Gender=Fem|Number=Sing	8	det	_	_
+8	популярности	популярность	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	(	(	PUNCT	(	_	14	punct	_	SpaceAfter=No
+10	и	и	CCONJ	CC	_	14	cc	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	12	punct	_	_
+12	возможно	возможный	ADV	RB	Degree=Pos	14	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	популярности	популярность	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+15	Найтли	Найтли	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	)	_	14	punct	_	_
+17	это	этот	DET	DT	Case=Nom|Gender=Neut|Number=Sing	18	det	_	_
+18	имя	имя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+19	вошло	войти	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+20	в	в	ADP	IN	_	21	case	_	_
+21	число	число	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obl	_	_
+22	50	50	NUM	CD	_	25	nummod	_	_
+23	самых	самый	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	популярных	популярный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+25	имён	имя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	,	_	31	punct	_	_
+27	и	и	CCONJ	CC	_	31	cc	_	_
+28	втрое	втрое	ADV	RB	Degree=Pos	29	advmod	_	_
+29	больше	много	NUM	RBR	Degree=Cmp	30	nummod	_	_
+30	детей	ребенок	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	obl	_	_
+31	получили	получить	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
+32	имя	имя	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	obj	_	_
+33	Кира	Кира	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	32	nmod	_	_
+34	(	(	PUNCT	(	_	35	punct	_	SpaceAfter=No
+35	Keira	Keira	PROPN	NNP	Foreign=Yes	33	appos	_	SpaceAfter=No
+36	,	,	PUNCT	,	_	39	punct	_	_
+37	а	а	CCONJ	CC	_	39	cc	_	_
+38	не	не	PART	NEG	Polarity=Neg	39	advmod	_	_
+39	Kiera	Kiera	PROPN	NNP	Foreign=Yes	35	conj	_	SpaceAfter=No
+40	)	)	PUNCT	)	_	35	punct	_	SpaceAfter=No
+41	.	.	PUNCT	.	_	19	punct	_	_
+
+# newdoc id = n01016
+# sent_id = n01016014
+# text = Южнокорейская компания первоначально думала, что причиной проблемы стала неисправность батареи, и поменяла свой компонент на элемент питания, производимый другим производителем.
+# english_text = The South Korean company initially thought a battery fault was to blame, and switched its own component for a third-party power cell.
+1	Южнокорейская	южнокорейский	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	компания	компания	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	первоначально	первоначально	ADV	RB	Degree=Pos	4	advmod	_	_
+4	думала	думать	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	что	что	SCONJ	IN	_	9	mark	_	_
+7	причиной	причина	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
+8	проблемы	проблема	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	стала	стать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+10	неисправность	неисправность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+11	батареи	батарея	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	9	punct	_	_
+13	и	и	CCONJ	CC	_	14	cc	_	_
+14	поменяла	поменять	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+15	свой	свой	DET	PRP$	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	det	_	_
+16	компонент	компонент	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+17	на	на	ADP	IN	_	18	case	_	_
+18	элемент	элемент	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+19	питания	питание	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	21	punct	_	_
+21	производимый	производить	VERB	VBNL	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	_
+22	другим	другой	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	производителем	производитель	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = n01016019
+# text = Некоторые аналитики полагают, что Huawei лучше всего позиционирован, чтобы извлечь выгоду из неудачи Samsung.
+# english_text = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
+1	Некоторые	некоторый	DET	DT	Case=Nom|Number=Plur	2	det	_	_
+2	аналитики	аналитик	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	полагают	полагать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	9	punct	_	_
+5	что	что	SCONJ	IN	_	9	mark	_	_
+6	Huawei	Huawei	PROPN	NNP	Foreign=Yes	9	nsubj:pass	_	_
+7	лучше	хорошо	ADV	RBR	Degree=Cmp	9	advmod	_	_
+8	всего	все	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+9	позиционирован	позиционировать	VERB	VBNH	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	12	punct	_	_
+11	чтобы	чтобы	SCONJ	IN	_	12	mark	_	_
+12	извлечь	извлечь	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	9	advcl	_	_
+13	выгоду	выгода	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	из	из	ADP	IN	_	15	case	_	_
+15	неудачи	неудача	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+16	Samsung	Samsung	PROPN	NNP	Foreign=Yes	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01016032
+# text = В телефонах типа Мате 9 не хватает интерфейса искусственного интеллекта, как Google Assistant или Siri от компании Apple.
+# english_text = The Mate 9 phones lack an artificial intelligence interface, like the Google Assistant or Apple's Siri.
+1	В	в	ADP	IN	_	2	case	_	_
+2	телефонах	телефон	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
+3	типа	тип	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Мате	Мате	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	9	9	NUM	CD	_	4	nummod	_	_
+6	не	не	PART	NEG	Polarity=Neg	7	advmod	_	_
+7	хватает	хватать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	интерфейса	интерфейс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	искусственного	искусственный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	интеллекта	интеллект	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	как	как	SCONJ	IN	_	13	case	_	_
+13	Google	Google	PROPN	NNP	Foreign=Yes	8	nmod	_	_
+14	Assistant	Assistant	PROPN	NNP	Foreign=Yes	13	flat:foreign	_	_
+15	или	или	CCONJ	CC	_	16	cc	_	_
+16	Siri	Siri	PROPN	NNP	Foreign=Yes	13	conj	_	_
+17	от	от	ADP	IN	_	18	case	_	_
+18	компании	компания	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+19	Apple	Apple	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	flat:foreign	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	7	punct	_	_
+
+# newdoc id = n01017
+# sent_id = n01017005
+# text = Однако один из экспертов индустрии путешествий отметил, что интернет в самолетах часто является ненадежным и вряд ли окажет влияние на выбор авиакомпании путешественниками.
+# english_text = But one travel expert warned in-flight internet was often unreliable and was unlikely to influence travellers' airline choices.
+1	Однако	однако	CCONJ	CC	_	7	advmod	_	_
+2	один	один	NUM	CD	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	из	из	ADP	IN	_	4	case	_	_
+4	экспертов	эксперт	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	индустрии	индустрия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	путешествий	путешествие	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	отметил	отметить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	14	punct	_	_
+9	что	что	SCONJ	IN	_	14	mark	_	_
+10	интернет	интернет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+11	в	в	ADP	IN	_	12	case	_	_
+12	самолетах	самолет	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	nmod	_	_
+13	часто	часто	ADV	RB	Degree=Pos	14	advmod	_	_
+14	является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	ccomp	_	_
+15	ненадежным	ненадежный	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	obl	_	_
+16	и	и	CCONJ	CC	_	19	cc	_	_
+17	вряд	вряд	ADV	RB	Degree=Pos	19	advmod	_	_
+18	ли	ли	PART	RP	_	17	fixed	_	_
+19	окажет	оказать	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	conj	_	_
+20	влияние	влияние	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+21	на	на	ADP	IN	_	22	case	_	_
+22	выбор	выбор	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	_
+23	авиакомпании	авиакомпания	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	путешественниками	путешественник	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01017008
+# text = Но возможно, BA и IAG добились успеха и могут предложить что-то хоть сколько-нибудь надежное.
+# english_text = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
+1	Но	но	CCONJ	CC	_	2	cc	_	_
+2	возможно	возможно	ADV	PARENTH	Degree=Pos	7	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	BA	BA	PROPN	NNP	Abbr=Yes|Foreign=Yes	7	nsubj	_	_
+5	и	и	CCONJ	CC	_	6	cc	_	_
+6	IAG	IAG	PROPN	NNP	Abbr=Yes|Foreign=Yes	4	conj	_	_
+7	добились	добиться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	успеха	успех	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+9	и	и	CCONJ	CC	_	10	cc	_	_
+10	могут	мочь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+11	предложить	предложить	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	что-то	что-то	PRON	WP	Case=Acc	11	obj	_	_
+13	хоть	хоть	PART	UH	_	14	advmod	_	_
+14	сколько-нибудь	сколько-нибудь	ADV	WRB	Degree=Pos	15	advmod	_	_
+15	надежное	надежный	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01017010
+# text = Компания сказала BBC, что каждой авиакомпании нужно будет решать самой, взимать ли плату с пассажиров за доступ к Wi-Fi cети.
+# english_text = The company told the BBC it would be the responsibility of each airline brand to decide whether to charge passengers an access fee.
+1	Компания	компания	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	сказала	сказать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	BBC	BBC	PROPN	NNP	Abbr=Yes|Foreign=Yes	2	iobj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	что	что	SCONJ	IN	_	8	mark	_	_
+6	каждой	каждый	DET	DT	Case=Gen|Gender=Fem|Number=Sing	7	det	_	_
+7	авиакомпании	авиакомпания	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	iobj	_	_
+8	нужно	нужный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	_
+9	будет	быть	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	_
+10	решать	решать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_
+11	самой	сам	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	13	punct	_	_
+13	взимать	взимать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	10	ccomp	_	_
+14	ли	ли	PART	RP	_	13	advmod	_	_
+15	плату	плата	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+16	с	с	ADP	IN	_	17	case	_	_
+17	пассажиров	пассажир	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	obl	_	_
+18	за	за	ADP	IN	_	19	case	_	_
+19	доступ	доступ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+20	к	к	ADP	IN	_	22	case	_	_
+21	Wi-Fi	Wi-Fi	NOUN	NN	Foreign=Yes	22	compound	_	Proper=True
+22	cети	сеть	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = n01017013
+# text = По мнению большинства людей, наличие Wi-Fi в аэропорту является более важным, чем возможность отправлять сообщения по электронной почте на борту самолета.
+# english_text = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
+1	По	по	ADP	IN	_	2	case	_	_
+2	мнению	мнение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	большинства	большинство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	людей	человек	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	наличие	наличие	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	Wi-Fi	Wi-Fi	NOUN	NN	Foreign=Yes	6	nmod	_	Proper=True
+8	в	в	ADP	IN	_	9	case	_	_
+9	аэропорту	аэропорт	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+10	является	являться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	более	более	ADV	RBR	Degree=Cmp	12	advmod	_	_
+12	важным	важный	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	xcomp	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	_	_
+14	чем	чем	SCONJ	IN	_	15	mark	_	_
+15	возможность	возможность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	advcl	_	_
+16	отправлять	отправлять	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	сообщения	сообщение	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+18	по	по	ADP	IN	_	20	case	_	_
+19	электронной	электронный	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	почте	почта	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	obl	_	_
+21	на	на	ADP	IN	_	22	case	_	_
+22	борту	борт	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+23	самолета	самолет	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	12	punct	_	_
+
+# newdoc id = n01018
+# sent_id = n01018024
+# text = Это иногда похоже на супердержаву.
+# english_text = It's like a super power sometimes.
+1	Это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	иногда	иногда	ADV	RB	Degree=Pos	3	advmod	_	_
+3	похоже	похожий	ADJ	JJH	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	на	на	ADP	IN	_	5	case	_	_
+5	супердержаву	супердержава	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01018040
+# text = Эта структура делает деньги за счет спонсорства и рекламы.
+# english_text = The scheme makes money through sponsorship and advertising.
+1	Эта	этот	DET	DT	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	структура	структура	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	деньги	деньги	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+5	за	за	ADP	IN	_	7	case	_	_
+6	счет	счет	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	fixed	_	_
+7	спонсорства	спонсорство	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	_
+8	и	и	CCONJ	CC	_	9	cc	_	_
+9	рекламы	реклама	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = n01019
+# sent_id = n01019004
+# text = 10-недельный курс был «сертифицирован» спецслужбой «Центр правительственной связи» (ЦПС) Великобритании.
+# english_text = The 10-week course has been "certified" by UK spy agency GCHQ.
+1	10-недельный	10-недельный	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	курс	курс	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+4	«	«	PUNCT	``	_	5	punct	_	SpaceAfter=No
+5	сертифицирован	сертифицировать	VERB	VBNH	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	»	»	PUNCT	'	_	5	punct	_	_
+7	спецслужбой	спецслужба	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl:agent	_	_
+8	«	«	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Центр	центр	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10	правительственной	правительственный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	Proper=True
+11	связи	связь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	»	»	PUNCT	'	_	9	punct	_	_
+13	(	(	PUNCT	(	_	14	punct	_	SpaceAfter=No
+14	ЦПС	ЦПС	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+15	)	)	PUNCT	)	_	14	punct	_	_
+16	Великобритании	Великобритания	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = n01019005
+# text = Но некоторые эксперты по безопасности подняли вопрос о необходимости курса и о намерениях, стоящих за этим.
+# english_text = But some security experts raised questions about the need for the course and the intent behind it.
+1	Но	но	CCONJ	CC	_	6	cc	_	_
+2	некоторые	некоторый	DET	DT	Case=Nom|Number=Plur	3	det	_	_
+3	эксперты	эксперт	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+4	по	по	ADP	IN	_	5	case	_	_
+5	безопасности	безопасность	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	_
+6	подняли	поднять	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	вопрос	вопрос	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	о	о	ADP	IN	_	9	case	_	_
+9	необходимости	необходимость	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+10	курса	курс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	CC	_	13	cc	_	_
+12	о	о	ADP	IN	_	13	case	_	_
+13	намерениях	намерение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	стоящих	стоять	VERB	VBNL	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+16	за	за	ADP	IN	_	17	case	_	_
+17	этим	это	PRON	DT	Case=Ins|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = n01020
+# sent_id = n01020004
+# text = Ранее самолеты видели только блогеры.
+# english_text = Previously the jets had only been seen by bloggers.
+1	Ранее	ранее	ADV	RBR	Degree=Cmp	3	advmod	_	_
+2	самолеты	самолет	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+3	видели	видеть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	только	только	PART	UH	_	5	advmod	_	_
+5	блогеры	блогер	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01020017
+# text = Разумеется, Китай на этой неделе продемонстрирует множество другой военной техники от ударных вертолетов до самолетов-амфибий.
+# english_text = Naturally China will be presenting plenty of other military hardware this week from attack helicopters to seaplanes.
+1	Разумеется	разумеется	ADV	RB	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	Китай	Китай	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	на	на	ADP	IN	_	6	case	_	_
+5	этой	этот	DET	DT	Case=Loc|Gender=Fem|Number=Sing	6	det	_	_
+6	неделе	неделя	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	продемонстрирует	продемонстрировать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	множество	множество	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+9	другой	другой	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+10	военной	военный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	техники	техника	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+12	от	от	ADP	IN	_	14	case	_	_
+13	ударных	ударный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	вертолетов	вертолет	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+15	до	до	ADP	IN	_	18	case	_	_
+16	самолетов	самолет	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	compound	_	SpaceAfter=No
+17	-	-	PUNCT	-	_	16	punct	_	SpaceAfter=No
+18	амфибий	амфибия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = n01020021
+# text = И поскольку Китай намерен в ближайшее десятилетие стать крупнейшим поставщиком авиационной техники, то для Пекина это шоу представляет возможность продемонстрировать свои амбиции не только в военной, но и в гражданской авиации.
+# english_text = And with China set to become the world's biggest aviation market in the next decade, the show is an opportunity for Beijing to demonstrate its ambitions in civil aviation as well as defence.
+1	И	и	CCONJ	CC	_	4	cc	_	_
+2	поскольку	поскольку	SCONJ	IN	_	4	mark	_	_
+3	Китай	Китай	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	намерен	намерен	ADJ	JJH	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	19	advcl	_	_
+5	в	в	ADP	IN	_	7	case	_	_
+6	ближайшее	близкий	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	десятилетие	десятилетие	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+8	стать	стать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
+9	крупнейшим	крупнейший	ADJ	JJS	Case=Ins|Degree=Sup|Gender=Masc|Number=Sing	10	amod	_	_
+10	поставщиком	поставщик	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+11	авиационной	авиационный	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	техники	техника	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	4	punct	_	_
+14	то	то	SCONJ	IN	_	19	mark	_	_
+15	для	для	ADP	IN	_	16	case	_	_
+16	Пекина	Пекин	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+17	это	этот	DET	DT	Case=Nom|Gender=Neut|Number=Sing	18	det	_	_
+18	шоу	шоу	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+19	представляет	представлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	возможность	возможность	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+21	продемонстрировать	продемонстрировать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+22	свои	свой	DET	PRP$	Animacy=Inan|Case=Acc|Number=Plur	23	det	_	_
+23	амбиции	амбиция	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	21	obj	_	_
+24	не	не	PART	NEG	Polarity=Neg	25	advmod	_	_
+25	только	только	PART	UH	_	27	advmod	_	_
+26	в	в	ADP	IN	_	27	case	_	_
+27	военной	военный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	,	_	33	punct	_	_
+29	но	но	CCONJ	CC	_	33	cc	_	_
+30	и	и	PART	UH	_	29	fixed	_	_
+31	в	в	ADP	IN	_	33	case	_	_
+32	гражданской	гражданский	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	авиации	авиация	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+34	.	.	PUNCT	.	_	19	punct	_	_
+
+# newdoc id = n01021
+# sent_id = n01021007
+# text = К сожалению, как это бывает, из-за опасных действий нескольких человек ресурс закрыли для всех, пишет Джесси LaBrocca, основательница Hack Forums, в сообщении, объясняющем, почему раздел был закрыт.
+# english_text = "Unfortunately once again the few ruin it for the many," wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.
+1	К	к	ADP	IN	_	2	case	_	_
+2	сожалению	сожаление	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	как	как	SCONJ	IN	_	6	mark	_	_
+5	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	бывает	бывать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	_	_
+8	из-за	из-за	ADP	IN	_	10	case	_	_
+9	опасных	опасный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	действий	действие	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	obl	_	_
+11	нескольких	несколько	NUM	RB	Case=Gen	12	nummod:gov	_	_
+12	человек	человек	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	ресурс	ресурс	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+14	закрыли	закрыть	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	для	для	ADP	IN	_	16	case	_	_
+16	всех	все	PRON	DT	Animacy=Anim|Case=Gen|Number=Plur	14	obl	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	18	punct	_	_
+18	пишет	писать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+19	Джесси	Джесси	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+20	LaBrocca	LaBrocca	PROPN	NNP	Foreign=Yes	19	flat:name	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	22	punct	_	_
+22	основательница	основательница	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	19	appos	_	_
+23	Hack	Hack	PROPN	NNP	Foreign=Yes	22	nmod	_	_
+24	Forums	Forums	PROPN	NNP	Foreign=Yes	23	flat	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	22	punct	_	_
+26	в	в	ADP	IN	_	27	case	_	_
+27	сообщении	сообщение	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+28	,	,	PUNCT	,	_	29	punct	_	_
+29	объясняющем	объяснять	VERB	VBNL	Aspect=Imp|Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	SpaceAfter=No
+30	,	,	PUNCT	,	_	34	punct	_	_
+31	почему	почему	ADV	WRB	Degree=Pos	34	advmod	_	_
+32	раздел	раздел	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj:pass	_	_
+33	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	aux:pass	_	_
+34	закрыт	закрыть	VERB	VBNH	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	29	ccomp	_	SpaceAfter=No
+35	.	.	PUNCT	.	_	14	punct	_	_
+
+# sent_id = n01021011
+# text = Под «последними событиями», очевидно, понимают атаки 21 октября, в результате которых временно отключились популярные веб-сайты, такие как Reddit, Twitter, Spotify и многие другие.
+# english_text = The "recent events" are likely to be the attacks of 21 October that briefly took down popular websites such as Reddit, Twitter and Spotify as well as many others.
+1	Под	под	ADP	IN	_	4	case	_	_
+2	«	«	PUNCT	``	_	4	punct	_	SpaceAfter=No
+3	последними	последний	ADJ	JJ	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	_
+4	событиями	событие	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	9	obl	_	SpaceAfter=No
+5	»	»	PUNCT	'	_	4	punct	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	очевидно	очевидно	ADV	RB	Degree=Pos	9	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	_	_
+9	понимают	понимать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	атаки	атака	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+11	21	21	ADJ	ORD	_	12	amod	_	_
+12	октября	октябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	18	punct	_	_
+14	в	в	ADP	IN	_	15	case	_	_
+15	результате	результат	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
+16	которых	который	PRON	WDT	Case=Gen|Number=Plur	15	nmod	_	_
+17	временно	временно	ADV	RB	Degree=Pos	18	advmod	_	_
+18	отключились	отключиться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl:relcl	_	_
+19	популярные	популярный	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+20	веб-сайты	веб-сайт	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	22	punct	_	_
+22	такие	такой	DET	DT	Case=Nom|Number=Plur	20	det	_	_
+23	как	как	SCONJ	IN	_	24	case	_	_
+24	Reddit	Reddit	PROPN	NNP	Foreign=Yes	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	26	punct	_	_
+26	Twitter	Twitter	PROPN	NNP	Foreign=Yes	24	conj	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	28	punct	_	_
+28	Spotify	Spotify	PROPN	NNP	Foreign=Yes	24	conj	_	_
+29	и	и	CCONJ	CC	_	31	cc	_	_
+30	многие	многий	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	31	amod	_	_
+31	другие	другой	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	24	conj	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = n01021012
+# text = Анализ показал, что исторические объемы данных были использованы в разрушительных целях.
+# english_text = Analysis revealed that historic amounts of data had been used to cause the disruption.
+1	Анализ	анализ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	показал	показать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	9	punct	_	_
+4	что	что	SCONJ	IN	_	9	mark	_	_
+5	исторические	исторический	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	объемы	объем	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj:pass	_	_
+7	данных	данные	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	были	быть	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	использованы	использовать	VERB	VBNH	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	ccomp	_	_
+10	в	в	ADP	IN	_	12	case	_	_
+11	разрушительных	разрушительный	ADJ	JJ	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	целях	цель	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	_
+
+# newdoc id = n01022
+# sent_id = n01022002
+# text = Обзор ООН по национальным планам сокращения выбросов CO2 показывает, что они крайне недостаточны для того, чтобы удержать глобальное потепление в пределах менее 2 градусов.
+# english_text = A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under 2C.
+1	Обзор	обзор	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	ООН	ООН	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	по	по	ADP	IN	_	5	case	_	_
+4	национальным	национальный	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur	5	amod	_	_
+5	планам	план	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	_
+6	сокращения	сокращение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	выбросов	выброс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	CO2	CO2	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	показывает	показывать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	что	что	SCONJ	IN	_	14	mark	_	_
+12	они	они	PRON	PRP	Case=Nom|Number=Plur|Person=3	14	nsubj	_	_
+13	крайне	крайне	ADV	RB	Degree=Pos	14	advmod	_	_
+14	недостаточны	недостаточный	ADJ	JJH	Degree=Pos|Number=Plur|Variant=Short	9	ccomp	_	_
+15	для	для	ADP	IN	_	16	case	_	_
+16	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing	14	obl	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	19	punct	_	_
+18	чтобы	чтобы	SCONJ	IN	_	19	mark	_	_
+19	удержать	удержать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	16	advcl	_	_
+20	глобальное	глобальный	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	потепление	потепление	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+22	в	в	ADP	IN	_	23	case	_	_
+23	пределах	предел	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	_
+24	менее	менее	ADV	RBR	Degree=Cmp	25	advmod	_	_
+25	2	2	NUM	CD	_	26	nummod:gov	_	_
+26	градусов	градус	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = n01022005
+# text = Многие ученые говорят, что для выполнения Парижских соглашений скоро потребуется технология извлечения углерода из воздуха.
+# english_text = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
+1	Многие	многий	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ученые	ученый	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	говорят	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	11	punct	_	_
+5	что	что	SCONJ	IN	_	11	mark	_	_
+6	для	для	ADP	IN	_	7	case	_	_
+7	выполнения	выполнение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+8	Парижских	Парижский	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	Proper=True
+9	соглашений	соглашение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+10	скоро	скоро	ADV	RB	Degree=Pos	11	advmod	_	_
+11	потребуется	потребоваться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
+12	технология	технология	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+13	извлечения	извлечение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	углерода	углерод	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	из	из	ADP	IN	_	16	case	_	_
+16	воздуха	воздух	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = n01022010
+# text = «Мы идем в правильном направлении: Парижские соглашения замедлят изменение климата, так же как и недавние поправки по сокращению выбросов парниковых газов гидрофторуглеродов (ГФУ), принятые в Кигали», — сказал Эрик Солхейм, глава ЮНЕП.
+# english_text = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
+1	«	«	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	Мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	идем	идти	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	IN	_	6	case	_	_
+5	правильном	правильный	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	направлении	направление	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+7	:	:	PUNCT	:	_	3	punct	_	_
+8	Парижские	Парижский	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	Proper=True
+9	соглашения	соглашение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+10	замедлят	замедлить	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+11	изменение	изменение	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	климата	климат	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	19	punct	_	_
+14	так	так	ADV	RB	Degree=Pos	19	cc	_	_
+15	же	же	PART	UH	_	14	fixed	_	_
+16	как	как	SCONJ	IN	_	14	fixed	_	_
+17	и	и	PART	UH	_	14	fixed	_	_
+18	недавние	недавний	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	поправки	поправка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	conj	_	_
+20	по	по	ADP	IN	_	21	case	_	_
+21	сокращению	сокращение	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	nmod	_	_
+22	выбросов	выброс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+23	парниковых	парниковый	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	газов	газ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+25	гидрофторуглеродов	гидрофторуглерод	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+26	(	(	PUNCT	(	_	27	punct	_	SpaceAfter=No
+27	ГФУ	ГФУ	NOUN	NN	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	appos	_	SpaceAfter=No
+28	)	)	PUNCT	)	_	27	punct	_	SpaceAfter=No
+29	,	,	PUNCT	,	_	30	punct	_	_
+30	принятые	принять	VERB	VBNL	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+31	в	в	ADP	IN	_	32	case	_	_
+32	Кигали	Кигали	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
+33	»	»	PUNCT	'	_	3	punct	_	SpaceAfter=No
+34	,	,	PUNCT	,	_	36	punct	_	_
+35	—	—	PUNCT	-	_	36	punct	_	OrigForm=--
+36	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+37	Эрик	Эрик	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+38	Солхейм	Солхейм	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	flat:name	_	SpaceAfter=No
+39	,	,	PUNCT	,	_	40	punct	_	_
+40	глава	глава	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	appos	_	_
+41	ЮНЕП	ЮНЕП	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	.	_	3	punct	_	_
+
+
