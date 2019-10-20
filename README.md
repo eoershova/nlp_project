@@ -15,3 +15,33 @@
 5) output.txt и gold.txt - выдача парсера и золотой стандарт для сравнения
 6) output_preprocessed.txt - выдача парсера с учетом препроцессинга (выделение всех кавычек пробелами)
 7) output_hard.txt и gold_hard.txt - выдача парсера и золотой стандарт только для более сложных предложений
+
+Метрики:
+1) output.txt и gold.txt 
+
+LAS F1 Score: 75.24
+
+MLAS Score: 60.65
+
+BLEX Score: 66.42
+
+
+
+
+2) output_preprocessed.txt и gold.txt 
+
+LAS F1 Score: 75.84
+
+MLAS Score: 61.39
+
+BLEX Score: 67.16
+
+
+3) output_hard.txt и gold_hard.txt
+
+LAS F1 Score: 71.81
+
+MLAS Score: 54.82
+
+BLEX Score: 60.39
+
