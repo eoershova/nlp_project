@@ -31,7 +31,8 @@ def parse(sentence):
     sys.argv.append('conllu')
     sys.argv.append('russian-syntagrus-ud-2.4-190531.udpipe')
     model = Model.load(sys.argv[3])
-    pipeline = Pipeline(model, sys.argv[1], Pipeline.DEFAULT, Pipeline.DEFAULT, sys.argv[2])
+    pipeline = Pipeline(model, sys.argv[1], Pipeline.DEFAULT, 
+                        Pipeline.DEFAULT, sys.argv[2])
     error = ProcessingError()
     # small preproccessing step
     sentence = re.sub('«', '« ', sentence)
